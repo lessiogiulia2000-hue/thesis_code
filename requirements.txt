@@ -1,0 +1,12 @@
+numpy
+scipy
+networkx
+scikit-learn
+matplotlib
+seaborn
+pandas
+POT
+faiss-cpu
+jupyter
+ipykernel
+tqdm
