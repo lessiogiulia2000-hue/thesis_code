@@ -4,11 +4,8 @@ import ot
 import matplotlib.pyplot as plt
 import seaborn as sns
 import random
-import os
-import math
-# from EDRep import NodeEmbedding 
 
-from EDRep_main.EDRep import NodeEmbedding  
+from EDRep_main.EDRep import NodeEmbedding
 
 
 def node_embedding(graph_a, partition_A, dim_embedding,seed=42):
