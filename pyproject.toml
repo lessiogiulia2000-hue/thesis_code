@@ -13,5 +13,5 @@ dependencies = [
     "scikit-bio",
     "seaborn",
     "tqdm",
-    "EDRep @ file:///./EDRep_main",
+    "EDRep",
 ]
